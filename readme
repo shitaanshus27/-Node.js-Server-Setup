@@ -1,0 +1,21 @@
+How to setup Node And Express
+
+cmd:
+
+Step 1: Create Folder
+mkdir express-server
+
+Step 2: Create Server File
+touch server.js
+
+Step 3: Initialize npm
+npm init
+
+Step 4: How to Install Express
+npm install express
+
+Step 5: Run File Using cmd
+node server.js
+
+Step 6: How to install Nodemon
+npm install -g nodemon
