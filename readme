@@ -1,3 +1,5 @@
+const bodyParser = require("body-parser")
+
 How to setup Node And Express
 
 cmd:
@@ -19,3 +21,7 @@ node server.js
 
 Step 6: How to install Nodemon
 npm install -g nodemon
+
+Step 7:bodyParser for post request
+npm install body-parser
+it is used to take input from user
